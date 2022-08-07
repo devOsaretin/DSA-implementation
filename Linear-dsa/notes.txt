@@ -1,0 +1,4 @@
+Note the difference between Instance methods and class methods
+Instance methods are methods that require an object to be created before they can be called.
+Class methods do not require an instance of the class (object) before they can be invoked.
+In JS they are created by add 'static' before the name of the method.
